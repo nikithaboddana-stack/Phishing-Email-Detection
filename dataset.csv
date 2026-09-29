@@ -1,0 +1,21 @@
+text,label
+"Hello, your meeting is scheduled for tomorrow at 10 AM. Please find the agenda attached.",safe
+"Thank you for your purchase. Your order has been successfully processed.",safe
+"Your monthly bank statement is now available in your account.",safe
+"Hi team, please attend the project meeting at 3 PM today.",safe
+"Your application has been successfully received. We will contact you soon.",safe
+"Your package has been delivered successfully. Thank you for shopping with us.",safe
+"Reminder: Your subscription will renew next month.",safe
+"Please find attached the report discussed during today's meeting.",safe
+"Your payment of 5000 has been successfully received.",safe
+"Welcome to our service. Your account has been created successfully.",safe
+"Urgent! Your account has been suspended. Click here to verify your password immediately.",phishing
+"Your bank account requires urgent verification. Login now at http://fake-bank-login.com",phishing
+"Congratulations! You are the winner. Click here to claim your prize immediately.",phishing
+"Security alert! Your account will be closed unless you confirm your information.",phishing
+"Verify your account now by clicking http://suspicious-login.com",phishing
+"Your password has expired. Click here to reset it immediately.",phishing
+"URGENT: We detected unusual activity. Confirm your bank account now.",phishing
+"Click here to receive your limited time reward.",phishing
+"Your account has been compromised. Login immediately to secure your account.",phishing
+"Congratulations! Claim your free gift by visiting http://free-prize.example.com",phishing
